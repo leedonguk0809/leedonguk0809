@@ -29,4 +29,4 @@ jobs:
           author_email: github-actions[bot]@users.noreply.github.com
           message: "Generated Snake Game"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
