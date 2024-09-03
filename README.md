@@ -34,11 +34,9 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
 </div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-</p>
 
 ## 🐍 GitHub Snake Game
 
