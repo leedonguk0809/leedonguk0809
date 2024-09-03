@@ -4,9 +4,19 @@
 
 ## 🍇 사용했던 기술들
 
-<p align="center">
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="margin-right: 0px; margin-bottom: 0px;" />
+</div>
 
-  <div style="display: flex;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
