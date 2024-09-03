@@ -16,8 +16,7 @@ jobs:
       - name: Generate Snake Game from GitHub Contribution Grid
         uses: Platane/snk@v2
         with:
-          github_user_name: leedonguk0809  # 여기서 자신의 GitHub 사용자 이름을 확인하세요
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          github_user_name: leedonguk0809  # 본인의 GitHub 사용자 이름
 
       - name: Push generated Snake Game to the repository
         uses: EndBug/add-and-commit@v7
@@ -29,4 +28,4 @@ jobs:
       - name: Update README with Snake Game
         run: |
           sed -i '/^<!-- snake -->/d' README.md
-          echo "![GitHub Snake](dist/github-contribution-grid-snake.gif)" >> README.md
+          echo "![GitHub Snake](https://github.com/leedonguk0809/leedonguk0809/blob/output/github-contribution-grid-snake.svg)" >> README.md
