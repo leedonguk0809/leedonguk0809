@@ -1,0 +1,32 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    # 매일 자정에 스네이크 게임을 생성합니다.
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk@v2
+        with:
+          github_user_name: leedonguk0809  
+          gif_out_path: dist/github-contribution-grid-snake.gif
+
+      - name: Push generated Snake Game to the repository
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+          message: "Generated Snake Game"
+
+      - name: Update README with Snake Game
+        run: |
+          sed -i '/^<!-- snake -->/d' README.md
+          echo "![GitHub Snake](dist/github-contribution-grid-snake.gif)" >> README.md
