@@ -1,11 +1,11 @@
-# Hi there 👋
+# 안녕하세요 👋
 
-I'm **LeeDongUk**! Welcome to my GitHub profile. I'm passionate about learning new technologies and improving my skills as a developer. Below you'll find more information about the languages and tools I've worked with, as well as the projects I'm currently working on.
+저는 **이동욱**입니다! 제 GitHub 프로필에 오신 것을 환영합니다. 저는 새로운 기술을 배우고, 개발자로서의 역량을 키우는 데 열정을 가지고 있습니다. 아래에서 제가 작업한 언어와 도구들에 대한 정보와 현재 진행 중인 프로젝트에 대해 더 많은 정보를 확인할 수 있습니다.
 
-## 🍇 Technologies I've Worked With
+## 🍇 사용했던 기술들!!
 
 <details>
-  <summary>Click to see more!</summary>
+  <summary>더 보기이!</summary>
 
   <p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -33,10 +33,10 @@ I'm **LeeDongUk**! Welcome to my GitHub profile. I'm passionate about learning n
 
 </details>
 
-## 🔥 Technologies I Want to Learn
+## 🔥 배우고 싶은 기술들!!
 
 <details>
-  <summary>Click to see more!</summary>
+  <summary>더 보기이!</summary>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -57,5 +57,5 @@ I'm **LeeDongUk**! Welcome to my GitHub profile. I'm passionate about learning n
 
 ## 🔗 Links
 
-- 🌐 [My GitHub Repositories](https://github.com/leedonguk0809?tab=repositories)
+- 🌐 [내 GitHub 리포지토리](https://github.com/leedonguk0809?tab=repositories)
 - 📝 [KioSSGk Organization Repository](https://github.com/KioSSGk/kiossgk)
