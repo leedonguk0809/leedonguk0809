@@ -28,5 +28,6 @@ jobs:
       - name: Update README with Snake Game
         run: |
           sed -i '/^<!-- snake -->/d' README.md
-          echo ![GitHub Snake](https://github.com/leedonguk0809/leedonguk0809/raw/output/github-contribution-grid-snake.svg)
+          echo "![GitHub Snake](https://github.com/leedonguk0809/leedonguk0809/raw/output/github-contribution-grid-snake.svg)" >> README.md
+
 
