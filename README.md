@@ -47,6 +47,12 @@ I'm **LeeDongUk**! Welcome to my GitHub profile. I'm passionate about learning n
 
 ## 🐍 GitHub Snake Game
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
 <!-- snake -->
 
 ## 🔗 Links
