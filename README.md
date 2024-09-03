@@ -28,9 +28,16 @@
 
 ## 🔥 배우고 싶은 기술들
 
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+</div>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
 ## 🐍 GitHub Snake Game
