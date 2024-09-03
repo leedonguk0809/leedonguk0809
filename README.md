@@ -5,6 +5,8 @@
 ## 🍇 사용했던 기술들
 
 <div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
@@ -12,8 +14,6 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="margin-right: 10px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="margin-right: 0px; margin-bottom: 0px;" />
 </div>
 
 <p align="center">
